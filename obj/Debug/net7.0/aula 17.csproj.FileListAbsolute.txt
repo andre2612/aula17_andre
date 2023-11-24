@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Downloads\aula 17\bin\Debug\net7.0\aula 17.exe
+C:\Users\ALUNO\Downloads\aula 17\bin\Debug\net7.0\aula 17.deps.json
+C:\Users\ALUNO\Downloads\aula 17\bin\Debug\net7.0\aula 17.runtimeconfig.json
+C:\Users\ALUNO\Downloads\aula 17\bin\Debug\net7.0\aula 17.dll
+C:\Users\ALUNO\Downloads\aula 17\bin\Debug\net7.0\aula 17.pdb
+C:\Users\ALUNO\Downloads\aula 17\obj\Debug\net7.0\aula 17.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Downloads\aula 17\obj\Debug\net7.0\aula 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Downloads\aula 17\obj\Debug\net7.0\aula 17.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Downloads\aula 17\obj\Debug\net7.0\aula 17.AssemblyInfo.cs
+C:\Users\ALUNO\Downloads\aula 17\obj\Debug\net7.0\aula 17.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Downloads\aula 17\obj\Debug\net7.0\aula 17.dll
+C:\Users\ALUNO\Downloads\aula 17\obj\Debug\net7.0\refint\aula 17.dll
+C:\Users\ALUNO\Downloads\aula 17\obj\Debug\net7.0\aula 17.pdb
+C:\Users\ALUNO\Downloads\aula 17\obj\Debug\net7.0\aula 17.genruntimeconfig.cache
+C:\Users\ALUNO\Downloads\aula 17\obj\Debug\net7.0\ref\aula 17.dll
